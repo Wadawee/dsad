@@ -1,0 +1,8 @@
+{
+  "name": "Gumis Coin",
+  "symbol": "GUMIS",
+  "description": "Gumis Coin is a custom SPL token.",
+  "properties": {
+    "mintAddress": "BERJWWgV9fcKKr4jnsUBAc4yNnAHuoJucuPRfHUHom5S"
+  }
+}
